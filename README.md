@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @masFreitas
 - 👀 I’m interested in InfoSec and QA!
 - 🌱 I’m currently learning all the programming languages I can, and also a lot about QA!
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Please send me a mensage on LinkedIn: https://www.linkedin.com/in/mateus-de-freitas/
 
 <!---
